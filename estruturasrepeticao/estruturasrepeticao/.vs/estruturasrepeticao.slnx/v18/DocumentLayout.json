@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\52643663810\\Documents\\csharp\\estruturasrepeticao\\estruturasrepeticao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3096944-86BC-47DF-8B18-C660BC021708}|estruturasrepeticao\\estruturasrepeticao.csproj|c:\\users\\52643663810\\documents\\csharp\\estruturasrepeticao\\estruturasrepeticao\\estruturasrepeticao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3096944-86BC-47DF-8B18-C660BC021708}|estruturasrepeticao\\estruturasrepeticao.csproj|solutionrelative:estruturasrepeticao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\52643663810\\AppData\\Local\\SourceServer\\026013cbf17311d8f1a4822d56d042165d0ec33344917b130faabb74d5ccb009\\src\\runtime\\src\\libraries\\System.Private.CoreLib\\src\\System\\Diagnostics\\Tracing\\EventPipeEventProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 182,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventPipeEventProvider.cs",
+              "DocumentMoniker": "C:\\Users\\52643663810\\AppData\\Local\\SourceServer\\026013cbf17311d8f1a4822d56d042165d0ec33344917b130faabb74d5ccb009\\src\\runtime\\src\\libraries\\System.Private.CoreLib\\src\\System\\Diagnostics\\Tracing\\EventPipeEventProvider.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\026013cbf17311d8f1a4822d56d042165d0ec33344917b130faabb74d5ccb009\\src\\runtime\\src\\libraries\\System.Private.CoreLib\\src\\System\\Diagnostics\\Tracing\\EventPipeEventProvider.cs",
+              "ToolTip": "C:\\Users\\52643663810\\AppData\\Local\\SourceServer\\026013cbf17311d8f1a4822d56d042165d0ec33344917b130faabb74d5ccb009\\src\\runtime\\src\\libraries\\System.Private.CoreLib\\src\\System\\Diagnostics\\Tracing\\EventPipeEventProvider.cs [Somente Leitura]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\026013cbf17311d8f1a4822d56d042165d0ec33344917b130faabb74d5ccb009\\src\\runtime\\src\\libraries\\System.Private.CoreLib\\src\\System\\Diagnostics\\Tracing\\EventPipeEventProvider.cs [Somente Leitura]",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAMwI4AAAAMAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T20:11:18.285Z",
+              "EditorCaption": " [Somente Leitura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\52643663810\\Documents\\csharp\\estruturasrepeticao\\estruturasrepeticao\\estruturasrepeticao\\Program.cs",
+              "RelativeDocumentMoniker": "estruturasrepeticao\\Program.cs",
+              "ToolTip": "C:\\Users\\52643663810\\Documents\\csharp\\estruturasrepeticao\\estruturasrepeticao\\estruturasrepeticao\\Program.cs",
+              "RelativeToolTip": "estruturasrepeticao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T20:02:34.218Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

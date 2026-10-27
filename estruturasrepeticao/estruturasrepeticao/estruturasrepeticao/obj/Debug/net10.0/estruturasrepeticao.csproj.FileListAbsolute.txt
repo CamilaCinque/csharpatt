@@ -1,0 +1,15 @@
+C:\Users\52643663810\Documents\csharp\estruturasrepeticao\estruturasrepeticao\estruturasrepeticao\bin\Debug\net10.0\estruturasrepeticao.exe
+C:\Users\52643663810\Documents\csharp\estruturasrepeticao\estruturasrepeticao\estruturasrepeticao\bin\Debug\net10.0\estruturasrepeticao.deps.json
+C:\Users\52643663810\Documents\csharp\estruturasrepeticao\estruturasrepeticao\estruturasrepeticao\bin\Debug\net10.0\estruturasrepeticao.runtimeconfig.json
+C:\Users\52643663810\Documents\csharp\estruturasrepeticao\estruturasrepeticao\estruturasrepeticao\bin\Debug\net10.0\estruturasrepeticao.dll
+C:\Users\52643663810\Documents\csharp\estruturasrepeticao\estruturasrepeticao\estruturasrepeticao\bin\Debug\net10.0\estruturasrepeticao.pdb
+C:\Users\52643663810\Documents\csharp\estruturasrepeticao\estruturasrepeticao\estruturasrepeticao\obj\Debug\net10.0\estruturasrepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52643663810\Documents\csharp\estruturasrepeticao\estruturasrepeticao\estruturasrepeticao\obj\Debug\net10.0\estruturasrepeticao.AssemblyInfoInputs.cache
+C:\Users\52643663810\Documents\csharp\estruturasrepeticao\estruturasrepeticao\estruturasrepeticao\obj\Debug\net10.0\estruturasrepeticao.AssemblyInfo.cs
+C:\Users\52643663810\Documents\csharp\estruturasrepeticao\estruturasrepeticao\estruturasrepeticao\obj\Debug\net10.0\estruturasrepeticao.csproj.CoreCompileInputs.cache
+C:\Users\52643663810\Documents\csharp\estruturasrepeticao\estruturasrepeticao\estruturasrepeticao\obj\Debug\net10.0\estruturasrepeticao.sourcelink.json
+C:\Users\52643663810\Documents\csharp\estruturasrepeticao\estruturasrepeticao\estruturasrepeticao\obj\Debug\net10.0\estruturasrepeticao.dll
+C:\Users\52643663810\Documents\csharp\estruturasrepeticao\estruturasrepeticao\estruturasrepeticao\obj\Debug\net10.0\refint\estruturasrepeticao.dll
+C:\Users\52643663810\Documents\csharp\estruturasrepeticao\estruturasrepeticao\estruturasrepeticao\obj\Debug\net10.0\estruturasrepeticao.pdb
+C:\Users\52643663810\Documents\csharp\estruturasrepeticao\estruturasrepeticao\estruturasrepeticao\obj\Debug\net10.0\estruturasrepeticao.genruntimeconfig.cache
+C:\Users\52643663810\Documents\csharp\estruturasrepeticao\estruturasrepeticao\estruturasrepeticao\obj\Debug\net10.0\ref\estruturasrepeticao.dll
