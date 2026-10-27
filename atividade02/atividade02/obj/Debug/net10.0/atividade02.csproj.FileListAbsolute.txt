@@ -1,0 +1,14 @@
+C:\Users\52643663810\source\repos\atividade02\atividade02\bin\Debug\net10.0\atividade02.exe
+C:\Users\52643663810\source\repos\atividade02\atividade02\bin\Debug\net10.0\atividade02.deps.json
+C:\Users\52643663810\source\repos\atividade02\atividade02\bin\Debug\net10.0\atividade02.runtimeconfig.json
+C:\Users\52643663810\source\repos\atividade02\atividade02\bin\Debug\net10.0\atividade02.dll
+C:\Users\52643663810\source\repos\atividade02\atividade02\bin\Debug\net10.0\atividade02.pdb
+C:\Users\52643663810\source\repos\atividade02\atividade02\obj\Debug\net10.0\atividade02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52643663810\source\repos\atividade02\atividade02\obj\Debug\net10.0\atividade02.AssemblyInfoInputs.cache
+C:\Users\52643663810\source\repos\atividade02\atividade02\obj\Debug\net10.0\atividade02.AssemblyInfo.cs
+C:\Users\52643663810\source\repos\atividade02\atividade02\obj\Debug\net10.0\atividade02.csproj.CoreCompileInputs.cache
+C:\Users\52643663810\source\repos\atividade02\atividade02\obj\Debug\net10.0\atividade02.dll
+C:\Users\52643663810\source\repos\atividade02\atividade02\obj\Debug\net10.0\refint\atividade02.dll
+C:\Users\52643663810\source\repos\atividade02\atividade02\obj\Debug\net10.0\atividade02.pdb
+C:\Users\52643663810\source\repos\atividade02\atividade02\obj\Debug\net10.0\atividade02.genruntimeconfig.cache
+C:\Users\52643663810\source\repos\atividade02\atividade02\obj\Debug\net10.0\ref\atividade02.dll

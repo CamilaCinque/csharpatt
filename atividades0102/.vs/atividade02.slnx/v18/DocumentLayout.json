@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\52643663810\\Documents\\csharp-att\\atividades0102\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B17747-CFEA-53EC-A710-9466D3F23F58}|atividade02\\atividade02.csproj|c:\\users\\52643663810\\documents\\csharp-att\\atividades0102\\atividade02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3B17747-CFEA-53EC-A710-9466D3F23F58}|atividade02\\atividade02.csproj|solutionrelative:atividade02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\52643663810\\Documents\\csharp-att\\atividades0102\\atividade02\\Program.cs",
+              "RelativeDocumentMoniker": "atividade02\\Program.cs",
+              "ToolTip": "C:\\Users\\52643663810\\Documents\\csharp-att\\atividades0102\\atividade02\\Program.cs",
+              "RelativeToolTip": "atividade02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T18:30:49.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

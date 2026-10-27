@@ -1,0 +1,14 @@
+C:\Users\52643663810\Documents\csharp\condicionais\condicionais\bin\Debug\net10.0\condicionais.exe
+C:\Users\52643663810\Documents\csharp\condicionais\condicionais\bin\Debug\net10.0\condicionais.deps.json
+C:\Users\52643663810\Documents\csharp\condicionais\condicionais\bin\Debug\net10.0\condicionais.runtimeconfig.json
+C:\Users\52643663810\Documents\csharp\condicionais\condicionais\bin\Debug\net10.0\condicionais.dll
+C:\Users\52643663810\Documents\csharp\condicionais\condicionais\bin\Debug\net10.0\condicionais.pdb
+C:\Users\52643663810\Documents\csharp\condicionais\condicionais\obj\Debug\net10.0\condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52643663810\Documents\csharp\condicionais\condicionais\obj\Debug\net10.0\condicionais.AssemblyInfoInputs.cache
+C:\Users\52643663810\Documents\csharp\condicionais\condicionais\obj\Debug\net10.0\condicionais.AssemblyInfo.cs
+C:\Users\52643663810\Documents\csharp\condicionais\condicionais\obj\Debug\net10.0\condicionais.csproj.CoreCompileInputs.cache
+C:\Users\52643663810\Documents\csharp\condicionais\condicionais\obj\Debug\net10.0\condicionais.dll
+C:\Users\52643663810\Documents\csharp\condicionais\condicionais\obj\Debug\net10.0\refint\condicionais.dll
+C:\Users\52643663810\Documents\csharp\condicionais\condicionais\obj\Debug\net10.0\condicionais.pdb
+C:\Users\52643663810\Documents\csharp\condicionais\condicionais\obj\Debug\net10.0\condicionais.genruntimeconfig.cache
+C:\Users\52643663810\Documents\csharp\condicionais\condicionais\obj\Debug\net10.0\ref\condicionais.dll
