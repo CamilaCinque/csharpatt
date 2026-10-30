@@ -1,0 +1,15 @@
+C:\Users\52643663810\Documents\csharp\arrays\arrayselistas\arrayselistas\bin\Debug\net10.0\arrayselistas.exe
+C:\Users\52643663810\Documents\csharp\arrays\arrayselistas\arrayselistas\bin\Debug\net10.0\arrayselistas.deps.json
+C:\Users\52643663810\Documents\csharp\arrays\arrayselistas\arrayselistas\bin\Debug\net10.0\arrayselistas.runtimeconfig.json
+C:\Users\52643663810\Documents\csharp\arrays\arrayselistas\arrayselistas\bin\Debug\net10.0\arrayselistas.dll
+C:\Users\52643663810\Documents\csharp\arrays\arrayselistas\arrayselistas\bin\Debug\net10.0\arrayselistas.pdb
+C:\Users\52643663810\Documents\csharp\arrays\arrayselistas\arrayselistas\obj\Debug\net10.0\arrayselistas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52643663810\Documents\csharp\arrays\arrayselistas\arrayselistas\obj\Debug\net10.0\arrayselistas.AssemblyInfoInputs.cache
+C:\Users\52643663810\Documents\csharp\arrays\arrayselistas\arrayselistas\obj\Debug\net10.0\arrayselistas.AssemblyInfo.cs
+C:\Users\52643663810\Documents\csharp\arrays\arrayselistas\arrayselistas\obj\Debug\net10.0\arrayselistas.csproj.CoreCompileInputs.cache
+C:\Users\52643663810\Documents\csharp\arrays\arrayselistas\arrayselistas\obj\Debug\net10.0\arrayselistas.sourcelink.json
+C:\Users\52643663810\Documents\csharp\arrays\arrayselistas\arrayselistas\obj\Debug\net10.0\arrayselistas.dll
+C:\Users\52643663810\Documents\csharp\arrays\arrayselistas\arrayselistas\obj\Debug\net10.0\refint\arrayselistas.dll
+C:\Users\52643663810\Documents\csharp\arrays\arrayselistas\arrayselistas\obj\Debug\net10.0\arrayselistas.pdb
+C:\Users\52643663810\Documents\csharp\arrays\arrayselistas\arrayselistas\obj\Debug\net10.0\arrayselistas.genruntimeconfig.cache
+C:\Users\52643663810\Documents\csharp\arrays\arrayselistas\arrayselistas\obj\Debug\net10.0\ref\arrayselistas.dll
