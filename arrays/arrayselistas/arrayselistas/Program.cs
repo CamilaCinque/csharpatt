@@ -71,30 +71,32 @@ if (int.TryParse(entrada, out int opcao))
 
         case 3:
 
-            // indexat
+            // index at
 
             Console.WriteLine($"Você escolheu a opção {opcao}.");
 
-            Console.Write("Informe a fruta que deseja atualizar na lista: ");
+            Console.Write("Informe o nome da fruta que deseja atualizar na lista: ");
             Console.WriteLine(string.Join(", ", frutas));
 
-            int posicaoFruta = int.Parse(Console.ReadLine());
+            string posicaoFruta = (Console.ReadLine());
 
-            Console.WriteLine($"Informe o nome da fruta que deseja inserir na posição {posicaoFruta}: ");
-            string atualizarFruta02 = Console.ReadLine();
+            //Console.WriteLine($"Informe o nome da fruta que deseja inserir na posição {posicaoFruta}: ");
+            //string atualizarFruta02 = Console.ReadLine();
 
-            if (posicaoFruta > frutas.Count || posicaoFruta < frutas.Count)
+            if (!frutas.Contains(posicaoFruta))
             {
+                frutas[0] = teste;
                 Console.WriteLine("Valor não existente na lista.");
             }
 
             else
 
             {
-                frutas[posicaoFruta] = atualizarFruta02;
+                frutas.IndexOf(posicaoFruta);
+                //frutas[posicaoFruta] = atualizarFruta02;
 
-                Console.Write("\nSucesso! A lista foi atualizada: ");
-                Console.WriteLine(string.Join(", ", frutas));
+                //Console.Write("\nSucesso! A lista foi atualizada: ");
+                //Console.WriteLine(string.Join(", ", frutas));
             }
 
             break;

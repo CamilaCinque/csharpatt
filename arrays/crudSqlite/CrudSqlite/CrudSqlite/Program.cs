@@ -42,6 +42,22 @@ do
             AdicionarFrutas();
             break;
 
+        case 3:
+            AtualizarFrutas();
+            break;
+
+        case 4:
+            DeletarFrutas();
+            break;
+
+        case 5:
+            VerificarFrutas();
+            break;
+
+        case 6:
+            OrdenarFrutas();
+            break;
+
         case 0:
             Console.WriteLine("Até mais");
             break;
@@ -56,6 +72,114 @@ while (opcao != 0);
 
 // funções
 
+void OrdenarFrutas()
+{
+    var selecionarFrutas = conn.CreateCommand();
+    selecionarFrutas.CommandText = "SELECT nomeFruta FROM frutas ORDER BY nomeFruta Asc";
+
+    var leitor = selecionarFrutas.ExecuteReader();
+
+    while (leitor.Read())
+    {
+        listaFrutas.Add(leitor.GetString(0));
+    }
+
+    if (listaFrutas.Count == 0)
+    {
+        Console.WriteLine("Não tem nada na lista!");
+    }
+    else
+    {
+        Console.WriteLine(string.Join(", ", listaFrutas));
+
+    }
+}
+
+void VerificarFrutas()
+{
+    Console.WriteLine("Informe o nome da fruta que deseja verificar se está na lista: ");
+    string verificarFruta = Console.ReadLine()!;
+
+    if (listaFrutas.Contains(verificarFruta))
+    {
+        Console.WriteLine($"A fruta {verificarFruta} está na lista!");
+    }
+    else
+    {
+        Console.WriteLine("O valor não está na lista.");
+    }
+ 
+}
+void DeletarFrutas()
+{
+    ListarFrutas();
+
+    Console.Write("\nQual fruta você deseja deletar?: ");
+    string deletarFruta = Console.ReadLine()!;
+
+    if (!listaFrutas.Contains(deletarFruta) || deletarFruta == " ")
+    {
+        Console.WriteLine("Informe uma fruta presente na lista.");
+    }
+    else
+    {
+        // atualizando a lista:
+
+        listaFrutas.Remove(deletarFruta);
+
+        Console.WriteLine($"A fruta {deletarFruta} foi removida com sucesso!");
+
+        // atualizando o banco:
+
+        var atualizar = conn.CreateCommand();
+        atualizar.CommandText = ("DELETE FROM frutas WHERE nomeFruta = $deletarFruta");
+        atualizar.Parameters.AddWithValue("$deletarFruta", deletarFruta);
+        atualizar.ExecuteNonQuery();
+    }
+}
+void AtualizarFrutas()
+{
+    ListarFrutas();
+
+    Console.Write("\nQual fruta você deseja atualizar?: ");
+    string atualizarFruta = Console.ReadLine()!;
+
+    if (!listaFrutas.Contains(atualizarFruta) || atualizarFruta == " ")
+    {
+        Console.WriteLine("Valor não existente na lista.");
+        return;
+    }
+
+    Console.Write($"Qual fruta você deseja inserir no lugar de {atualizarFruta}?: ");
+    string novaFruta = Console.ReadLine()!;
+
+    if (listaFrutas.Contains(novaFruta))
+    {
+        Console.WriteLine("Valor já existente na lista.");
+    }
+
+    else
+
+    {
+        // atualizando a lista:
+
+        int posicaoFruta = listaFrutas.IndexOf(atualizarFruta);
+        listaFrutas[posicaoFruta] = novaFruta;
+
+        Console.WriteLine($"A fruta {atualizarFruta} foi atualizada para {novaFruta} com sucesso!");
+
+        // atualizando o banco:
+
+        var atualizar = conn.CreateCommand();
+        atualizar.CommandText = ("UPDATE frutas SET nomeFruta = $novoNome WHERE nomeFruta = $antigoNome");
+        atualizar.Parameters.AddWithValue("$novoNome", novaFruta);
+        atualizar.Parameters.AddWithValue("$antigoNome", atualizarFruta);
+        atualizar.ExecuteNonQuery();
+
+        listaFrutas[posicaoFruta] = novaFruta;
+        Console.WriteLine($"A fruta '{atualizarFruta}' foi atualizada para '{novaFruta}' com sucesso!");
+    }
+}
 void AdicionarFrutas()
 {
     Console.WriteLine("Informe o nome da fruta nova: ");
@@ -81,7 +205,7 @@ void AdicionarFrutas()
         // adicionando na lista:
 
         listaFrutas.Add(frutaNova);
-        Console.WriteLine($"A {frutaNova} foi adicionada na lista com sucesso!");
+        Console.WriteLine($"{frutaNova} foi adicionada na lista com sucesso!");
     }
 }
 
@@ -89,7 +213,7 @@ void ListarFrutas() {
     listaFrutas = new List<string>();
 
     var selecionarFrutas = conn.CreateCommand();
-    selecionarFrutas.CommandText = "SELECT nomeFruta FROM frutas ORDER BY nomeFruta Asc";
+    selecionarFrutas.CommandText = "SELECT nomeFruta FROM frutas";
 
     var leitor = selecionarFrutas.ExecuteReader();
 
@@ -103,17 +227,16 @@ void ListarFrutas() {
         Console.WriteLine("Não tem nada na lista!");
     }
     else
-    {  
-        foreach (var fruta in listaFrutas)
-        {
-            Console.WriteLine(fruta);
-        }
+    {
+        Console.WriteLine(string.Join(", ", listaFrutas));
+
     }
-};
+}
+;
 
 string Perguntar(string mensagem)
 {
-    Console.WriteLine(mensagem);
+    Console.Write(mensagem);
     return (Console.ReadLine()!).Trim();
 }
 
@@ -124,7 +247,7 @@ void MostrarMenu()
     Console.WriteLine("02 - Adicionar frutas");
     Console.WriteLine("03 - Atualizar frutas");
     Console.WriteLine("04 - Remover frutas");
-    Console.WriteLine("05 - Verificar se existe em frutas");
+    Console.WriteLine("05 - Verificar se existe na lista 'frutas'");
     Console.WriteLine("06 - Ordenar lista");
     Console.WriteLine("00 - Sair");
 }

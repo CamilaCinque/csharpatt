@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\52643663810\\Documents\\csharp\\trabalho\\POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|c:\\users\\52643663810\\documents\\csharp\\trabalho\\poo\\poo\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|c:\\users\\52643663810\\documents\\csharp\\trabalho\\poo\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|c:\\users\\52643663810\\documents\\csharp\\trabalho\\poo\\poo\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|c:\\users\\52643663810\\documents\\csharp\\trabalho\\poo\\poo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|c:\\users\\52643663810\\documents\\csharp\\trabalho\\poo\\poo\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B649D9-F844-E1C8-F084-58BF0EE267AC}|POO\\POO.csproj|solutionrelative:poo\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\52643663810\\Documents\\csharp\\trabalho\\POO\\POO\\Program.cs",
+              "RelativeDocumentMoniker": "POO\\Program.cs",
+              "ToolTip": "C:\\Users\\52643663810\\Documents\\csharp\\trabalho\\POO\\POO\\Program.cs",
+              "RelativeToolTip": "POO\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T19:01:52.333Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\52643663810\\Documents\\csharp\\trabalho\\POO\\POO\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "POO\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\52643663810\\Documents\\csharp\\trabalho\\POO\\POO\\ContaBancaria.cs",
+              "RelativeToolTip": "POO\\ContaBancaria.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T20:46:26.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\52643663810\\Documents\\csharp\\trabalho\\POO\\POO\\Veiculo.cs",
+              "RelativeDocumentMoniker": "POO\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\52643663810\\Documents\\csharp\\trabalho\\POO\\POO\\Veiculo.cs",
+              "RelativeToolTip": "POO\\Veiculo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T20:20:47.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\52643663810\\Documents\\csharp\\trabalho\\POO\\POO\\Moto.cs",
+              "RelativeDocumentMoniker": "POO\\Moto.cs",
+              "ToolTip": "C:\\Users\\52643663810\\Documents\\csharp\\trabalho\\POO\\POO\\Moto.cs",
+              "RelativeToolTip": "POO\\Moto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T20:19:20.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\52643663810\\Documents\\csharp\\trabalho\\POO\\POO\\Carro.cs",
+              "RelativeDocumentMoniker": "POO\\Carro.cs",
+              "ToolTip": "C:\\Users\\52643663810\\Documents\\csharp\\trabalho\\POO\\POO\\Carro.cs",
+              "RelativeToolTip": "POO\\Carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T19:55:25.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\52643663810\\Documents\\csharp\\arrays\\crudSqlite\\CrudSqlite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8070865-FAAB-4875-8272-7BDE6BEDC3A5}|CrudSqlite\\CrudSqlite.csproj|c:\\users\\52643663810\\documents\\csharp\\arrays\\crudsqlite\\crudsqlite\\crudsqlite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8070865-FAAB-4875-8272-7BDE6BEDC3A5}|CrudSqlite\\CrudSqlite.csproj|solutionrelative:crudsqlite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC17A692-86C1-3297-DE6D-FCADE110BBE5}|CrudSqlite\\CrudSqlite.csproj|c:\\users\\52643663810\\documents\\csharp\\arrays\\crudsqlite\\crudsqlite\\crudsqlite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC17A692-86C1-3297-DE6D-FCADE110BBE5}|CrudSqlite\\CrudSqlite.csproj|solutionrelative:crudsqlite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "CrudSqlite\\Program.cs",
               "ToolTip": "C:\\Users\\52643663810\\Documents\\csharp\\arrays\\crudSqlite\\CrudSqlite\\CrudSqlite\\Program.cs",
               "RelativeToolTip": "CrudSqlite\\Program.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAUwEgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAEwMoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-30T17:40:32.829Z",
               "EditorCaption": ""
